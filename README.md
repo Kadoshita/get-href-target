@@ -1,0 +1,2 @@
+# get-href-target
+htmlページのhref要素のtargetを取得して新しいタブで開くか表示するChrome拡張機能
